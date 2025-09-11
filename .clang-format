@@ -4,7 +4,7 @@ MaxEmptyLinesToKeep: 3
 IndentCaseLabels: false
 AllowShortIfStatementsOnASingleLine: false
 AllowShortCaseLabelsOnASingleLine: false
-AllowShortLoopsOnASingleLine: false
+AllowShortLoopsOnASingleLine: true
 AllowShortFunctionsOnASingleLine: None
 AllowShortLambdasOnASingleLine: None
 DerivePointerAlignment: false

@@ -1,5 +1,5 @@
 TARGET 	= scheduler_simulator
-CC     	= gcc
+CC     	= gcc -g
 FLAGS  	= -Wall -lpthread
 OBJ    	= builtin.o command.o shell.o function.o resource.o task.o
 INCLUDE = ./include/
